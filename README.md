@@ -100,7 +100,7 @@ Curso Superior de Tecnologia focado em desenvolvimento de software, análise de 
   <a href="https://www.linkedin.com/in/gustavorinedam-610a80264">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
   </a>
-    <a href="https://www.linkedin.com/in/gustavorinedam-610a80264">
+    <a href="https://www.instagram.com/_grinedam_?igsh=eDkzMm9tOGNsaTVz&utm_source=gr">
     <img src="https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
