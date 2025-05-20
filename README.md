@@ -73,15 +73,6 @@ Curso Superior de Tecnologia focado em desenvolvimento de software, análise de 
       <img src="https://avatars.githubusercontent.com/u/45487711" alt="n8n" width="65" height="65" />
       <br>n8n
     </td>
-    <td align="center" width="96">
-      <!-- Espaço para futuras habilidades -->
-    </td>
-    <td align="center" width="96">
-      <!-- Espaço para futuras habilidades -->
-    </td>
-    <td align="center" width="96">
-      <!-- Espaço para futuras habilidades -->
-    </td>
   </tr>
 </table>
 
