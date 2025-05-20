@@ -86,7 +86,7 @@ Curso Superior de Tecnologia focado em desenvolvimento de software, análise de 
 
 - **Pensamento Estratégico**: Capacidade de planejar e implementar soluções considerando impactos a longo prazo
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="25" height="25" /> Idiomas
+## <img src="https://www.emoji.family/api/emojis/1f310/noto/png" alt="" width="25" height="25" /> Idiomas
 
 - 🇧🇷 Português: Nativo
 - 🇺🇸 Inglês: Profissional (Professional Working)
