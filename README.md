@@ -63,8 +63,6 @@ Curso Superior de Tecnologia focado em desenvolvimento de software, análise de 
       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="SQL" width="65" height="65" />
       <br>SQL
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" width="65" height="65" />
       <br>Selenium
